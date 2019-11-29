@@ -101,3 +101,4 @@ https://github.com/rylev/learn-rust-the-hard-way
   - MySQL
   - ORM + Diesel + Migrations
   - Async + PoolConnection
+* Programação WebAssembly com Rust
